@@ -111,39 +111,6 @@ Deployed in a live internship environment — a secure admin-controlled app for 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manojbboopathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbboopathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbboopathi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojbboopathi&theme=tokyonight&no-frame=true&column=6&margin-w=5" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojbboopathi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Let's Connect & Build Something Real
 
 *"Ambitious. Driven. Builder of things that work."*
